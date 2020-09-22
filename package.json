@@ -1,5 +1,5 @@
 {
-  "name": "generator-ts-react",
+  "name": "generator-ts-react-ast",
   "version": "1.0.0",
   "description": "Component generator",
   "main": "index.js",
