@@ -1,13 +1,15 @@
 {
-  "name": "generator-fe",
-  "version": "1.0.1",
+  "name": "generator-ts-react",
+  "version": "1.0.0",
   "description": "Component generator",
   "main": "index.js",
   "files": [
     "generators/**/*",
     "README.md"
   ],
-  "repository": "",
+  "repository": {
+    "url": "https://github.com/DmitriyNoa/yeoman-ts-react-generator.git"
+  },
   "private": false,
   "keywords": [
     "react-components",
